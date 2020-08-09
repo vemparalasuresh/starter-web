@@ -1,0 +1,1 @@
+This is Level1 text file in current dir and this line is first line.
